@@ -1,4 +1,3 @@
-  GNU nano 7.2                                                                   update-and-clean                                                                            
 #!/bin/bash
 
 # --- DEFINICIÓN DE COLORES ---
