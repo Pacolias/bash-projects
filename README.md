@@ -38,7 +38,7 @@ bash-projects/
 │
 ├── automation/                 # Practical system automation
 │   ├── update-and-clean.sh     # System update and cleanup
-│   ├── downloads_organizer.sh
+│   ├── organize-downloads.sh
 │   ├── backup_documents.sh
 │   └── notify_reminder.sh
 │
