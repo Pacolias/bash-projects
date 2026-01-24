@@ -52,7 +52,7 @@ for directory in "${user_directories[@]}"; do
 	        mkdir "$current_backup_directory"
         fi
 
-        cp -av "$directory" "$current_backup_directory"
+        cp -av "$directory"/. "$current_backup_directory"
     fi
 done 
 
