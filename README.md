@@ -37,10 +37,11 @@ bash-projects/
 │   └── timer.sh
 │
 ├── automation/                 # Practical system automation
-│   ├── update_and_clean.sh
-│   ├── organize_downloads.sh
+│   ├── README.md
 │   ├── backup_documents.sh
-│   └── notify_reminder.sh
+│   ├── notify_reminder.sh
+│   ├── organize_downloads.sh
+│   └── update_and_clean.sh
 │
 ├── devtools/                   # Scripts for development workflows
 │   ├── dev_setup.sh
