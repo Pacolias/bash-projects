@@ -37,8 +37,8 @@ bash-projects/
 │   └── timer.sh
 │
 ├── automation/                 # Practical system automation
-│   ├── update-and-clean.sh     # System update and cleanup
-│   ├── organize-downloads.sh
+│   ├── update_and_clean.sh
+│   ├── organize_downloads.sh
 │   ├── backup_documents.sh
 │   └── notify_reminder.sh
 │
