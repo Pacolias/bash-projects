@@ -32,6 +32,7 @@ bash-projects/
 ├── CONTRIBUTING.md
 │
 ├── fundamentals/               # Bash fundamentals and syntax
+│   ├── README.md
 │   ├── file_checker.sh
 │   ├── line_counter.sh
 │   └── timer.sh
