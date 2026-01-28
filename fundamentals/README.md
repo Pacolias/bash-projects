@@ -30,6 +30,7 @@ Displays detailed information about a given file or directory.
 ### Usage
 ```bash
 ./file_checker.sh <file_or_directory>
+```
 
 ## 2. `count_lines.sh` — Line Counter
 
@@ -51,6 +52,7 @@ Counts the number of lines in one or more text files.
 ### Usage
 ```bash
 ./count_lines.sh file1.txt file2.txt
+```
 
 ## 3. `timer.sh` — Terminal Countdown Timer
 
@@ -75,3 +77,4 @@ A flexible countdown timer supporting seconds, minutes, and hours.
 ### Usage
 ```bash
 ./timer.sh 5m
+```
